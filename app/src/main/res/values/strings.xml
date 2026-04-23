@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">MyLibrary</string>
+    <string name="app_name">Библиотека</string>
+
+    <string name="book1">Капитанская дочка</string>
+    <string name="book2">Крошка Доррит</string>
+    <string name="book3">Мёртвая комната</string>
+    <string name="book4">Кроткая</string>
+    <string name="book5">Дым</string>
+
+    <string name="desc1">Историческая повесть о любви, чести и верности во времена пугачёвского восстания.</string>
+    <string name="desc2">Роман о жизни маленькой девочки, выросшей в долговой тюрьме, и её поисках счастья.</string>
+    <string name="desc3">Мистический рассказ о загадочной комнате, хранящей тайны прошлого и сверхъестественные явления.</string>
+    <string name="desc4">Повесть о трагической любви, гордыне и глубоком непонимании между мужем и его молодой женой.</string>
+    <string name="desc5">Роман о русском обществе за границей, любовных интригах и социальных противоречиях эпохи реформ.</string>
+
+    <string name="author1">Александр Пушкин</string>
+    <string name="author2">Чарльз Диккенс</string>
+    <string name="author3">Уилки Коллинз</string>
+    <string name="author4">Фёдор Достоевский</string>
+    <string name="author5">Иван Тургенев</string>
 </resources>
